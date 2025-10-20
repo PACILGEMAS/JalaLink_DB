@@ -15,4 +15,4 @@ services:
     command: ["postgres", "-c", "timezone=Asia/Jakarta"]
 
 volumes:
-  kapsulkeaslian_data:
+  jalalink_db:
